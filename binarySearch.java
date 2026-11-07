@@ -14,8 +14,8 @@ public class arrays{
         return -1;
     }
 public static void main(String args[]){
-  int arr[]={1,2,3,6,7,8,9,9,9};
-  int key=7;
-  System.out.println(binarySearch(nums,key));
+      int arr[]={1,2,3,6,7,8,9,9,9};
+      int key=7;
+      System.out.println(binarySearch(nums,key));
 }
 }
