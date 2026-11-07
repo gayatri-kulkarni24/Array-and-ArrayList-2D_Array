@@ -13,7 +13,7 @@ public class arrays{
         System.out.println("maximum subrray sum=" +maxSum);
     }
     public static void main(String args[]){
-      int nums[]={1,2,3,6,7,8,9,9,9};
-      kadane_algo(nums);
+          int nums[]={1,2,3,6,7,8,9,9,9};
+          kadane_algo(nums);
     }
 }
