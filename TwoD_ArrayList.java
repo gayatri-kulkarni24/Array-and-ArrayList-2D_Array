@@ -19,7 +19,7 @@ public class arraylist{
         }
         System.out.println(mainlist);
     }
-public static  void main(String args[]){
-    TwoDArrayList();
-}
+    public static  void main(String args[]){
+        TwoDArrayList();
+    }
 }
